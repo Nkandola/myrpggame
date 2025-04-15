@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"README",
+  "name":"README",
+  "parent":{
+    "name":"myrpggame",
+    "path":"myrpggame.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
